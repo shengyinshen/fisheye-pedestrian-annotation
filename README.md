@@ -20,7 +20,7 @@ pip install opencv-python
 Clone this repo:
 
 ```shell
-git clone https://github.com/michigan-traffic-lab/fisheye-pedestrian-annotation.git 
+git clone https://github.com/shengyinshen/fisheye-pedestrian-annotation.git 
 cd ./fisheye-pedestrian-annotation
 ```
 
