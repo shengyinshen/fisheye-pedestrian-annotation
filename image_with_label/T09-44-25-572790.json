@@ -1,0 +1,42 @@
+{
+  "version": "4.5.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pedestrian",
+      "points": [
+        [
+          638.252427184466,
+          319.4174757281553
+        ],
+        [
+          646.6019417475728,
+          303.49514563106794
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {}
+    },
+    {
+      "label": "pedestrian",
+      "points": [
+        [
+          662.7184466019417,
+          309.70873786407765
+        ],
+        [
+          674.9514563106795,
+          288.15533980582524
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "T09-44-25-572790.jpg",
+  "imageData": null,
+  "imageHeight": 960,
+  "imageWidth": 1280
+}

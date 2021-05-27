@@ -1,0 +1,74 @@
+{
+  "version": "4.5.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pedestrian",
+      "points": [
+        [
+          639.8897058823529,
+          120.58823529411764
+        ],
+        [
+          641.9117647058823,
+          104.96323529411764
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {}
+    },
+    {
+      "label": "pedestrian",
+      "points": [
+        [
+          657.720588235294,
+          105.6985294117647
+        ],
+        [
+          658.8235294117646,
+          87.86764705882352
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {}
+    },
+    {
+      "label": "pedestrian",
+      "points": [
+        [
+          682.5367647058823,
+          111.3970588235294
+        ],
+        [
+          685.6617647058823,
+          93.1985294117647
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {}
+    },
+    {
+      "label": "pedestrian",
+      "points": [
+        [
+          677.5735294117646,
+          108.2720588235294
+        ],
+        [
+          680.5147058823529,
+          92.09558823529412
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "T09-34-50-250840.jpg",
+  "imageData": null,
+  "imageHeight": 960,
+  "imageWidth": 1280
+}

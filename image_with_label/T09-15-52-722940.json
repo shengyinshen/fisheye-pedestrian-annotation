@@ -1,0 +1,26 @@
+{
+  "version": "4.5.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pedestrian",
+      "points": [
+        [
+          835.4581673306773,
+          579.6812749003983
+        ],
+        [
+          863.3466135458167,
+          591.2350597609561
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "T09-15-52-722940.jpg",
+  "imageData": null,
+  "imageHeight": 960,
+  "imageWidth": 1280
+}

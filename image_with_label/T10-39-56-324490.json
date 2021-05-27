@@ -1,0 +1,58 @@
+{
+  "version": "4.5.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pedestrian",
+      "points": [
+        [
+          632.9787234042553,
+          244.14893617021275
+        ],
+        [
+          639.8936170212766,
+          217.5531914893617
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {}
+    },
+    {
+      "label": "pedestrian",
+      "points": [
+        [
+          828.4313725490196,
+          549.5098039215686
+        ],
+        [
+          855.6372549019608,
+          561.2745098039215
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {}
+    },
+    {
+      "label": "pedestrian",
+      "points": [
+        [
+          833.3333333333334,
+          591.941391941392
+        ],
+        [
+          858.2417582417582,
+          604.3956043956044
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "circle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "T10-39-56-324490.jpg",
+  "imageData": null,
+  "imageHeight": 960,
+  "imageWidth": 1280
+}
