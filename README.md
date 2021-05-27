@@ -42,7 +42,7 @@ Please follow the steps below to annotate your images.
 
    ![](./gallery/1.png)
 
-2. Right-click and then select "Create LineStrip"
+2. Right-click and then select "Create Circle"
 
    ![](./gallery/2.png)
 
