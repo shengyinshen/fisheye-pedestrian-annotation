@@ -59,7 +59,7 @@ Please follow the steps below to annotate your images.
 ## Important things to know
 
 1. Any pedestrians and cyclers within the red circle should be annotated. The pedestrians and cyclers located outside the circle should be ignored. 
-2. When labeling the two points, please start from the bottom then move the head. Please DO NOT do this in the opposite order. 
+2. When labeling the two points, please start from the pedestrain's bottom (usually the feet location) then move the pedestrain's head. Please DO NOT do this in the opposite order. 
 3. You can use "Ctrl + scroll wheel" to zoom-in and zoom-out.
 4. If you accidentally mislabeled any of the objects, try right-click --> "Edit Polygons" and "Edit Label" to correct them.
 8. If you have any further questions, please contact Sean (shengyin@umich.edu) or Zhengxia (zzhengxi@umich.edu).
