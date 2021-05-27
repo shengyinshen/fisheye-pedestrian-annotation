@@ -2,7 +2,7 @@
 
 [Michigan Traffic Lab, University of Michigan](https://traffic.engin.umich.edu/)
 
-This repo provides a toolbox for image annotation. It also provides a brief tutorial on how to label fisheye traffic images for vehicle detection. This repo is based on [Labelme](https://github.com/wkentaro/labelme), an open source graphical image annotation toolbox.
+This repo provides a toolbox for image annotation. It also provides a brief tutorial on how to label fisheye traffic images for traffic object detection. This repo is based on [Labelme](https://github.com/wkentaro/labelme), an open source graphical image annotation toolbox.
 
 
 
